@@ -1,0 +1,16 @@
+C:\Users\CASSIA\Documents\SENAI\C#\algoritmo semaforo\obj\Debug\net5.0\algoritmo semaforo.csprojAssemblyReference.cache
+C:\Users\CASSIA\Documents\SENAI\C#\algoritmo semaforo\obj\Debug\net5.0\algoritmo semaforo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CASSIA\Documents\SENAI\C#\algoritmo semaforo\obj\Debug\net5.0\algoritmo semaforo.AssemblyInfoInputs.cache
+C:\Users\CASSIA\Documents\SENAI\C#\algoritmo semaforo\obj\Debug\net5.0\algoritmo semaforo.AssemblyInfo.cs
+C:\Users\CASSIA\Documents\SENAI\C#\algoritmo semaforo\obj\Debug\net5.0\algoritmo semaforo.csproj.CoreCompileInputs.cache
+C:\Users\CASSIA\Documents\SENAI\C#\algoritmo semaforo\bin\Debug\net5.0\algoritmo semaforo.exe
+C:\Users\CASSIA\Documents\SENAI\C#\algoritmo semaforo\bin\Debug\net5.0\algoritmo semaforo.deps.json
+C:\Users\CASSIA\Documents\SENAI\C#\algoritmo semaforo\bin\Debug\net5.0\algoritmo semaforo.runtimeconfig.json
+C:\Users\CASSIA\Documents\SENAI\C#\algoritmo semaforo\bin\Debug\net5.0\algoritmo semaforo.runtimeconfig.dev.json
+C:\Users\CASSIA\Documents\SENAI\C#\algoritmo semaforo\bin\Debug\net5.0\algoritmo semaforo.dll
+C:\Users\CASSIA\Documents\SENAI\C#\algoritmo semaforo\bin\Debug\net5.0\ref\algoritmo semaforo.dll
+C:\Users\CASSIA\Documents\SENAI\C#\algoritmo semaforo\bin\Debug\net5.0\algoritmo semaforo.pdb
+C:\Users\CASSIA\Documents\SENAI\C#\algoritmo semaforo\obj\Debug\net5.0\algoritmo semaforo.dll
+C:\Users\CASSIA\Documents\SENAI\C#\algoritmo semaforo\obj\Debug\net5.0\ref\algoritmo semaforo.dll
+C:\Users\CASSIA\Documents\SENAI\C#\algoritmo semaforo\obj\Debug\net5.0\algoritmo semaforo.pdb
+C:\Users\CASSIA\Documents\SENAI\C#\algoritmo semaforo\obj\Debug\net5.0\algoritmo semaforo.genruntimeconfig.cache
